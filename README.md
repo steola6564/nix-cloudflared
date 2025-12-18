@@ -27,6 +27,15 @@ reimplementing the existing NixOS module.
 
 ---
 
+## Roadmap
+
+- Automatically track the latest cloudflared releases
+  (e.g. via GitHub Releases integration or nvfetcher)
+- Add macOS (Darwin) support
+- Provide a Japanese version of this README
+
+---
+
 ## Supported platforms
 
 | Platform        | Status |
